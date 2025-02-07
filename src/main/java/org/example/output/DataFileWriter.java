@@ -56,7 +56,7 @@ public abstract class DataFileWriter<T> {
     //Для формирования имени файла
     private String getFileName() {
         String directory = (outputDir != null && !outputDir.isEmpty()) ? outputDir : ".";
-        String pref = (prefix != null && !prefix.isEmpty()) ? prefix + "_" : "";
+        String pref = (prefix != null && !prefix.isEmpty()) ? prefix + "" : "";
         return directory + File.separator + pref + getBaseFileName();
     }
 }
