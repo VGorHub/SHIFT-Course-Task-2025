@@ -60,4 +60,4 @@
 ## Контакты для связи
 
 📧 Email: vova-gorohov04@mail.ru  
-📱 Telegram: [@VGorPlay](https://t.me/VGorPlay
+📱 Telegram: [@VGorPlay](https://t.me/VGorPlay)
